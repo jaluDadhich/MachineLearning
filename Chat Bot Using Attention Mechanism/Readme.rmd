@@ -1,0 +1,2 @@
+ This package contains all the files required for Running the Attention based Chat Bot using Babi Data Set.
+ Train and test files are present. Just fork or dowmload the repo and run the chatbot.pynb file.
